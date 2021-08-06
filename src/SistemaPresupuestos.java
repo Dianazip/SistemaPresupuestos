@@ -88,7 +88,7 @@ public class SistemaPresupuestos {
 		}
 		
 		else {
-			System.out.println("tu presupuesto no alcanza para nuestars motos ");
+			System.out.println("tu presupuesto no alcanza para nuestras motos ");
 		}
 		}
 	
